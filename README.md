@@ -1,0 +1,2 @@
+# Team_code
+ eam_Code est un dépôt collaboratif destiné à la gestion et au développement de projets en équipe. Ce dossier centralise les efforts de notre équipe dans la conception, le développement, et l’optimisation de solutions pour différents projets. Il permet de structurer le code, de documenter les processus, et de gérer les contributions des membres de manière efficace et coordonnée. Chaque projet y sera proposé et développé en suivant des principes de collaboration et de partage des connaissances pour maximiser la qualité et l'impact des solutions produites.
